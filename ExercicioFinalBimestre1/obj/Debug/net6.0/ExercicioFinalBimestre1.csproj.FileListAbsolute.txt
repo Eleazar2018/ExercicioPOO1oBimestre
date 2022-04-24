@@ -1,0 +1,15 @@
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\bin\Debug\net6.0\ExercicioFinalBimestre1.exe
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\bin\Debug\net6.0\ExercicioFinalBimestre1.deps.json
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\bin\Debug\net6.0\ExercicioFinalBimestre1.runtimeconfig.json
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\bin\Debug\net6.0\ExercicioFinalBimestre1.dll
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\bin\Debug\net6.0\ExercicioFinalBimestre1.pdb
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.csproj.AssemblyReference.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.AssemblyInfoInputs.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.AssemblyInfo.cs
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.csproj.CoreCompileInputs.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.dll
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\refint\ExercicioFinalBimestre1.dll
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.pdb
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ExercicioFinalBimestre1.genruntimeconfig.cache
+C:\Users\eleaz\Documents\1-FATEC-3oPeriodo\POO\ExercicioFinalBimestre1\ExercicioFinalBimestre1\obj\Debug\net6.0\ref\ExercicioFinalBimestre1.dll
