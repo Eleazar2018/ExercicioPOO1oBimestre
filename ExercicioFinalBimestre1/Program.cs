@@ -10,11 +10,11 @@ class Program
         string nome = "", email = "", telefone = "", rg = "";
 
 
-        Console.WriteLine("### R - Calcular as propriedadas de um retângulo ###");
-        Console.WriteLine("####### C - Comparar área 2 triângulos #############");
-        Console.WriteLine("####### G - Gravar #################################");
-        Console.WriteLine("####### L - Ler  ###################################");
-        Console.WriteLine("####### S - Sair ###################################");
+        Console.WriteLine("####################################################");
+        Console.WriteLine("### C - Comparar área 2 triângulos #################");
+        Console.WriteLine("### G - Gravar #####################################");
+        Console.WriteLine("### L - Ler  #######################################");
+        Console.WriteLine("### S - Sair #######################################");
         Console.WriteLine("####################################################");
         Console.Write("Digite uma operação: ");
         acao = Console.ReadLine().ToUpper();
@@ -38,11 +38,17 @@ class Program
                 rg = Console.ReadLine();
 
                 StreamWriter sw = new StreamWriter(caminho, true);
-
+                DateTime thisDay = DateTime.Today;
+                Console.WriteLine(thisDay.ToString("g"));
+                string datetime = DateTime.Now.ToString("hh:mm:ss tt");
+                Console.WriteLine(datetime);
+                Console.WriteLine();
                 sw.WriteLine("Nome: " + nome);
                 sw.WriteLine("E-mail: " + email);
                 sw.WriteLine("Telefone: " + telefone);
                 sw.WriteLine("RG: " + rg);
+                sw.WriteLine("Registrado em: " + thisDay);
+                sw.WriteLine("Registrado às: " + datetime);
                 sw.WriteLine("--------------------------------------------------");
 
                 sw.Close();
@@ -107,11 +113,11 @@ class Program
             Console.ReadKey();
 
             Console.Clear();
-            Console.WriteLine("### R - Calcular as propriedadas de um retângulo ###");
-            Console.WriteLine("####### C - Comparar área 2 triângulos #############");
-            Console.WriteLine("####### G - Gravar #################################");
-            Console.WriteLine("####### L - Ler  ###################################");
-            Console.WriteLine("####### S - Sair ###################################");
+            Console.WriteLine("####################################################");
+            Console.WriteLine("### C - Comparar área 2 triângulos #################");
+            Console.WriteLine("### G - Gravar #####################################");
+            Console.WriteLine("### L - Ler  #######################################");
+            Console.WriteLine("### S - Sair #######################################");
             Console.WriteLine("####################################################");
             Console.Write("Digite uma operação: ");
 
